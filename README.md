@@ -1,0 +1,1 @@
+Run `yarn run serve` and then visit http://localhost:3001/ to check the page. It should only populate data on the first visit. The database is stored in IndexedDB with the help of localforage.
